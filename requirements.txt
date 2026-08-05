@@ -1,0 +1,5 @@
+requests
+rich
+alive-progress
+prompt-toolkit
+php-filter-chain
